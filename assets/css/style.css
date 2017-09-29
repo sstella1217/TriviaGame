@@ -1,0 +1,42 @@
+.box {
+	width: 500px;
+	height: 300px;
+	background: url(../images/retina_wood_@2X.png) no-repeat center center fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	padding-top:20px;
+  	margin-left: 40px;
+}
+
+.smbox{
+	width: 400px;
+	height: 250px;
+	background-color: yellow;
+	margin-left: 50px;
+
+}
+
+h1{
+	text-align: center;
+}
+#triviaElement {
+	text-align: center;
+}	
+
+input{
+	margin-left: 90px;
+}
+
+
+
+.bar{
+	width: 50px;
+	height: 50px;
+	margin-left: 80px;
+}
+
+#truChoice{
+	margin-left: 150px;
+}
